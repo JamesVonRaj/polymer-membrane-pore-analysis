@@ -92,7 +92,7 @@ microns = float(microns.replace('um', ''))
 #-----------------------------------------------------------------------------#
 
 
-#--------------------------- create scaling factor ---------------------------#
+#---------------------------- find scaling factor ----------------------------#
 
 # This section finds the pixel length associated with the scaling label in the
 # bottom of the image. 
