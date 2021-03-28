@@ -2,7 +2,7 @@
 A program used to analyze pore size distributions of polymer membrane SEM images. 
 
 ## Overview
-Both Tesseract-OCR Engine and Otsu thresholding are iplimented to clean the SEM images to help identify pores in the membrane. The cleaned images are analyzed with my algorithm which outputs an average pore size vs. film depth plot. The resultant plots show quantitatively how asymmetrical the pore Sizes become further down the polymer membrane film.
+Both Tesseract-OCR Engine and Otsu thresholding are iplimented to clean the polymer membrane SEM images. The cleaned images are analyzed with my algorithm which outputs an average pore size vs. film depth plot. The resultant plots show quantitatively how asymmetrical the pore sizes become deeper in the polymer membrane film.
 
 ## Dependencies
 * **python>=3.6**
